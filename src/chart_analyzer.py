@@ -1,5 +1,3 @@
-%%writefile /content/FST-Analyzer-Project/src/chart_analyzer.py
-
 import cv2, numpy as np, re, pytesseract, json
 from ultralytics import YOLO
 import matplotlib.pyplot as plt
