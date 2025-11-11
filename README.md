@@ -6,7 +6,7 @@
 
 برای اجرای نسخه دموی این پروژه، کافی است روی دکمه زیر کلیک کنید. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ikavehmns/leak-off-analyzor/blob/main/notebooks/final.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ikavehmns/leak-off-analyzor/blob/main/notebooks/Demo.ipynb)
 
 ---
 ### نحوه استفاده
